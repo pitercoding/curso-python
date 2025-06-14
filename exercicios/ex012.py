@@ -1,6 +1,3 @@
-print('==== Aumentando Salário ====')
-nome = input('Qual o nome do funcionário? ')
-salario = float(input('Salário atual do funcionário: '))
-aumento = salario * 1.15
-print(f'Prazer, {nome}. O seu salário atual é de R$ {salario:,.2f}'.replace('.', ','))
-print(f'Vamos aumentá-lo 15% e passará a ser R$ {aumento:,.2f}'.replace('.', ','))
+preco = float(input('Qual é o preço do produto? R$'))
+novo_preco= preco - (preco*5/100)
+print('O produto que custava R${:.2f}, na promoção com desconto de 5% vai custar R${:.2f}.'.format(preco, novo_preco))
