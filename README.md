@@ -1,4 +1,4 @@
-# Curso Python – Mundo 1, 2 e 3 🚀
+# 🐍 Curso Python – Mundo 1, 2 e 3 🚀
 
 Bem-vindo(a) ao repositório oficial dos meus estudos com o curso **Python – Mundo 1, 2 e 3**! Este repositório foi criado para organizar meus códigos, anotações e exercícios práticos ao longo dessa jornada de aprendizado com o Professor Gustavo Guanabara.
 
