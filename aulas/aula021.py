@@ -1,6 +1,3 @@
-from idlelib.macosx import fixb2context
-
-
 def contador(i, f, p):
     """
     -> Faz uma contagem na tela.
